@@ -1,5 +1,5 @@
 # AssemblyBigNumberDivision
-## Asmx86 and RISCV calculators for dividing 32 digits numbers
+## ASMx86 and RISC-V calculators for dividing 32 digits numbers
 This repository contains two calculators designed for dividing large numbers across different bases:
 
 ## [ASMX86-32 Calculator]()
